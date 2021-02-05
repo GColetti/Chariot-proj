@@ -1,4 +1,4 @@
-# ArduinoRoboticCar-proj
+# ArduinoRoboticCar
 
 Robotic car powered by Arduino Uno, Motor Shield, Ultra Sonic sensor w/ 3D printed mount, and D/C motors.
 
